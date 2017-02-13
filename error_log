@@ -1,0 +1,88 @@
+[07-Feb-2017 12:27:06 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/tabibuco/dev/application/controllers/Home.php on line 119
+[07-Feb-2017 12:34:17 UTC] CSRF state token does not match one provided.
+[07-Feb-2017 12:52:55 UTC] CSRF state token does not match one provided.
+[09-Feb-2017 04:13:05 UTC] PHP Parse error:  syntax error, unexpected '$appId' (T_VARIABLE) in /home/tabibuco/dev/application/controllers/Login.php on line 73
+[09-Feb-2017 04:13:35 UTC] PHP Parse error:  syntax error, unexpected '$appId' (T_VARIABLE) in /home/tabibuco/dev/application/controllers/Login.php on line 195
+[09-Feb-2017 04:13:42 UTC] PHP Parse error:  syntax error, unexpected '$appId' (T_VARIABLE) in /home/tabibuco/dev/application/controllers/Login.php on line 195
+[09-Feb-2017 04:27:48 UTC] CSRF state token does not match one provided.
+[09-Feb-2017 06:08:58 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/tabibuco/dev/application/controllers/Login.php on line 170
+[09-Feb-2017 06:09:56 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/tabibuco/dev/application/controllers/Login.php on line 170
+[10-Feb-2017 02:27:19 UTC] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/tabibuco/dev/application/controllers/Login.php on line 453
+[10-Feb-2017 02:28:09 UTC] PHP Fatal error:  Call to undefined function send_confirmations() in /home/tabibuco/dev/application/controllers/Login.php on line 438
+[10-Feb-2017 02:28:44 UTC] PHP Fatal error:  Call to undefined function send_confirmations() in /home/tabibuco/dev/application/controllers/Login.php on line 438
+[10-Feb-2017 02:29:30 UTC] PHP Fatal error:  Call to undefined function send_confirmations() in /home/tabibuco/dev/application/controllers/Login.php on line 438
+[10-Feb-2017 02:30:34 UTC] PHP Fatal error:  Call to undefined function send_confirmations() in /home/tabibuco/dev/application/controllers/Login.php on line 438
+[10-Feb-2017 03:39:26 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tabibuco/dev/application/models/Login_Model.php on line 253
+[10-Feb-2017 03:41:47 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tabibuco/dev/application/models/Login_Model.php on line 253
+[10-Feb-2017 03:43:44 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tabibuco/dev/application/models/Login_Model.php on line 253
+[10-Feb-2017 03:48:50 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/tabibuco/dev/application/models/Login_Model.php on line 254
+[10-Feb-2017 03:50:37 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/tabibuco/dev/application/models/Login_Model.php on line 254
+[10-Feb-2017 03:52:20 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/tabibuco/dev/application/models/Login_Model.php on line 254
+[10-Feb-2017 05:50:26 UTC] PHP Parse error:  syntax error, unexpected 'funciton' (T_STRING), expecting variable (T_VARIABLE) in /home/tabibuco/dev/application/controllers/Login.php on line 566
+[10-Feb-2017 05:51:02 UTC] PHP Parse error:  syntax error, unexpected 'funciton' (T_STRING), expecting variable (T_VARIABLE) in /home/tabibuco/dev/application/controllers/Login.php on line 566
+[10-Feb-2017 06:13:17 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/tabibuco/dev/application/controllers/Login.php on line 593
+[10-Feb-2017 06:13:29 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/tabibuco/dev/application/controllers/Login.php on line 593
+[11-Feb-2017 04:29:10 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/tabibuco/dev/application/controllers/Login.php on line 87
+[11-Feb-2017 04:29:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/tabibuco/dev/application/controllers/Login.php on line 87
+[11-Feb-2017 05:30:39 UTC] CSRF state token does not match one provided.
+[11-Feb-2017 05:30:41 UTC] CSRF state token does not match one provided.
+[11-Feb-2017 05:30:58 UTC] CSRF state token does not match one provided.
+[11-Feb-2017 22:18:35 UTC] PHP Fatal error:  Class 'Google_ServiceResource' not found in /home/tabibuco/dev/application/libraries/google-api-php-client/contrib/Google_Oauth2Service.php on line 25
+[11-Feb-2017 22:27:00 UTC] CSRF state token does not match one provided.
+[11-Feb-2017 22:56:05 UTC] CSRF state token does not match one provided.
+[11-Feb-2017 22:56:11 UTC] CSRF state token does not match one provided.
+[11-Feb-2017 22:57:38 UTC] CSRF state token does not match one provided.
+[11-Feb-2017 23:03:14 UTC] CSRF state token does not match one provided.
+[11-Feb-2017 23:03:41 UTC] CSRF state token does not match one provided.
+[11-Feb-2017 23:03:45 UTC] CSRF state token does not match one provided.
+[11-Feb-2017 23:03:55 UTC] CSRF state token does not match one provided.
+[11-Feb-2017 23:27:42 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/tabibuco/dev/application/controllers/Login.php on line 50
+[11-Feb-2017 23:30:34 UTC] PHP Fatal error:  Call to undefined method CI_Session::setuserdata() in /home/tabibuco/dev/application/controllers/Login.php on line 12
+[11-Feb-2017 23:30:38 UTC] PHP Fatal error:  Call to undefined method CI_Session::setuserdata() in /home/tabibuco/dev/application/controllers/Login.php on line 12
+[11-Feb-2017 23:31:12 UTC] PHP Fatal error:  Call to undefined method CI_Session::setuserData() in /home/tabibuco/dev/application/controllers/Login.php on line 12
+[11-Feb-2017 23:31:16 UTC] PHP Fatal error:  Call to undefined method CI_Session::setuserData() in /home/tabibuco/dev/application/controllers/Login.php on line 12
+[11-Feb-2017 23:31:20 UTC] PHP Fatal error:  Call to undefined method CI_Session::setuserData() in /home/tabibuco/dev/application/controllers/Login.php on line 12
+[11-Feb-2017 23:32:31 UTC] PHP Fatal error:  Call to undefined method CI_Session::setuserData() in /home/tabibuco/dev/application/controllers/Login.php on line 13
+[11-Feb-2017 23:32:34 UTC] PHP Fatal error:  Call to undefined method CI_Session::setuserData() in /home/tabibuco/dev/application/controllers/Login.php on line 13
+[11-Feb-2017 23:33:51 UTC] PHP Fatal error:  Call to undefined method CI_Session::setuserData() in /home/tabibuco/dev/application/controllers/Login.php on line 13
+[11-Feb-2017 23:46:07 UTC] CSRF state token does not match one provided.
+[11-Feb-2017 23:47:49 UTC] CSRF state token does not match one provided.
+[11-Feb-2017 23:49:06 UTC] CSRF state token does not match one provided.
+[11-Feb-2017 23:50:16 UTC] CSRF state token does not match one provided.
+[11-Feb-2017 23:58:32 UTC] CSRF state token does not match one provided.
+[12-Feb-2017 00:00:12 UTC] CSRF state token does not match one provided.
+[12-Feb-2017 00:00:16 UTC] CSRF state token does not match one provided.
+[12-Feb-2017 00:06:48 UTC] CSRF state token does not match one provided.
+[12-Feb-2017 00:10:01 UTC] CSRF state token does not match one provided.
+[12-Feb-2017 00:11:50 UTC] CSRF state token does not match one provided.
+[12-Feb-2017 00:15:36 UTC] CSRF state token does not match one provided.
+[12-Feb-2017 00:22:37 UTC] CSRF state token does not match one provided.
+[12-Feb-2017 00:27:26 UTC] CSRF state token does not match one provided.
+[12-Feb-2017 01:24:08 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/tabibuco/dev/application/controllers/Login.php on line 482
+[12-Feb-2017 01:54:27 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/tabibuco/dev/application/controllers/Login.php on line 453
+[12-Feb-2017 01:54:29 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/tabibuco/dev/application/controllers/Login.php on line 453
+[12-Feb-2017 01:54:54 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/tabibuco/dev/application/controllers/Login.php on line 453
+[12-Feb-2017 01:57:58 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/tabibuco/dev/application/controllers/Login.php on line 453
+[12-Feb-2017 02:00:29 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/tabibuco/dev/application/controllers/Login.php on line 457
+[12-Feb-2017 02:01:04 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/tabibuco/dev/application/controllers/Login.php on line 457
+[12-Feb-2017 03:16:34 UTC] PHP Fatal error:  Call to undefined method Login::public() in /home/tabibuco/dev/application/controllers/Login.php on line 497
+[12-Feb-2017 14:43:23 UTC] CSRF state token does not match one provided.
+[12-Feb-2017 14:46:44 UTC] CSRF state token does not match one provided.
+[12-Feb-2017 15:07:42 UTC] CSRF state token does not match one provided.
+[12-Feb-2017 17:51:59 UTC] CSRF state token does not match one provided.
+[12-Feb-2017 17:52:16 UTC] CSRF state token does not match one provided.
+[12-Feb-2017 17:52:24 UTC] CSRF state token does not match one provided.
+[13-Feb-2017 01:15:25 UTC] PHP Parse error:  syntax error, unexpected ''ge' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/tabibuco/dev/application/controllers/Login.php on line 420
+[13-Feb-2017 01:20:41 UTC] CSRF state token does not match one provided.
+[13-Feb-2017 01:21:44 UTC] CSRF state token does not match one provided.
+[13-Feb-2017 01:26:08 UTC] CSRF state token does not match one provided.
+[13-Feb-2017 01:34:13 UTC] CSRF state token does not match one provided.
+[13-Feb-2017 01:42:00 UTC] CSRF state token does not match one provided.
+[13-Feb-2017 01:45:18 UTC] CSRF state token does not match one provided.
+[13-Feb-2017 01:50:58 UTC] PHP Fatal error:  Call to a member function createAuthUrl() on a non-object in /home/tabibuco/dev/application/controllers/Login.php on line 311
+[13-Feb-2017 01:52:03 UTC] CSRF state token does not match one provided.
+[13-Feb-2017 01:52:31 UTC] CSRF state token does not match one provided.
+[13-Feb-2017 01:58:31 UTC] PHP Fatal error:  Call to undefined method CI_Session::unset_flashdata() in /home/tabibuco/dev/application/views/patientsignup.php on line 40
+[13-Feb-2017 02:04:55 UTC] CSRF state token does not match one provided.
+[13-Feb-2017 02:06:04 UTC] PHP Fatal error:  Call to undefined method CI_Session::unset_flashdata() in /home/tabibuco/dev/application/views/patientsignup.php on line 40
+[13-Feb-2017 04:50:30 UTC] CSRF state token does not match one provided.
